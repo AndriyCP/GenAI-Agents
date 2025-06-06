@@ -1,0 +1,39 @@
+pixid,unique_pixel,assigned_domain,assigned_brand,dma,dma_name,date,action,hitCount
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,0,,2024-01-01,lead,216
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,501,NEW YORK,2024-01-01,lead,41
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,503,MACON,2024-01-01,lead,2
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,504,PHILADELPHIA,2024-01-01,lead,39
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,505,DETROIT,2024-01-01,lead,12
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,506,BOSTON-MANCHESTER,2024-01-01,lead,6
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,507,SAVANNAH,2024-01-01,lead,2
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,508,PITTSBURGH,2024-01-01,lead,14
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,510,CLEVELAND-AKRON-CANTON,2024-01-01,lead,4
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,511,"WASHINGTON, DC-HAGARSTOWN",2024-01-01,lead,249
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,512,BALTIMORE,2024-01-01,lead,6
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,515,CINCINNATI,2024-01-01,lead,1
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,516,ERIE,2024-01-01,lead,2
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,517,CHARLOTTE,2024-01-01,lead,128
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,518,GREENSBORO-HIGH.POINT-WINSTON.SALEM,2024-01-01,lead,9
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,519,"CHARLESTON, SC",2024-01-01,lead,3
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,521,PROVIDENCE-NEW BEDFORD,2024-01-01,lead,3
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,522,"COLUMBUS, GA-OPELIKA, AL",2024-01-01,lead,1
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,524,ATLANTA,2024-01-01,lead,19
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,0,,2024-01-01,view,500
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,501,NEW YORK,2024-01-01,view,100
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,503,MACON,2024-01-01,view,5
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,504,PHILADELPHIA,2024-01-01,view,80
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,505,DETROIT,2024-01-01,view,25
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,506,BOSTON-MANCHESTER,2024-01-01,view,12
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,507,SAVANNAH,2024-01-01,view,4
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,508,PITTSBURGH,2024-01-01,view,28
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,510,CLEVELAND-AKRON-CANTON,2024-01-01,view,8
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,511,"WASHINGTON, DC-HAGARSTOWN",2024-01-01,view,450
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,512,BALTIMORE,2024-01-01,view,12
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,515,CINCINNATI,2024-01-01,view,2
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,516,ERIE,2024-01-01,view,4
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,517,CHARLOTTE,2024-01-01,view,250
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,518,GREENSBORO-HIGH.POINT-WINSTON.SALEM,2024-01-01,view,18
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,519,"CHARLESTON, SC",2024-01-01,view,6
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,521,PROVIDENCE-NEW BEDFORD,2024-01-01,view,6
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,522,"COLUMBUS, GA-OPELIKA, AL",2024-01-01,view,2
+0980ef0d-dcad-497f-a026-e7f53cf0f7b1,True,givemethevin.com,unknown,524,ATLANTA,2024-01-01,view,38 
